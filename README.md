@@ -7,6 +7,9 @@ Use the command:\
 python -m pip install -r requirements.txt\
 to get the needed libraries.
 
+# Important
+In the main.py file there is a excluded_devices array variable that, in case you want to exclude some devices from getting scanned, must be populated.
+
 # Execution
 You can execute the application with pyhton3 main.py.
 
