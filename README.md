@@ -24,4 +24,3 @@ python3 -m pip install pyinstaller\
 Run this command to compile main.py:\
 pyinstaller --onefile --windowed main.py\
 (this will create an .exe file under the "dist" folder)
-
