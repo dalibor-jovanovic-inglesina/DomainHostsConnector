@@ -264,4 +264,3 @@ if __name__ == '__main__':
     host_list_app = HostListApp()
     host_list_app.show()
     app.exec()
-
