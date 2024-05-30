@@ -11,7 +11,7 @@ to get the needed libraries.
 In the main.py file there is a excluded_devices array variable that, in case you want to exclude some devices from getting scanned, must be populated.
 
 # Execution
-You can execute the application with pyhton3 main.py.
+You can execute the application with python3 main.py.
 
 # Compile For Windows
 You can compile this program with pyinstaller.\
